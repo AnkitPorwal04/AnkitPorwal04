@@ -111,7 +111,10 @@
 <br/>  
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:START -->
+- [What are Large Language Models&lpar;LLMs&rpar;?](https://medium.com/@porwalankit04/what-are-large-language-models-llms-55c303ec3b05?source=rss-1e44a26f869d------2)
+- [My online internship with Oasis Infobyte.](https://medium.com/@porwalankit04/my-online-internship-with-oasis-infobyte-28e1aabb1a91?source=rss-1e44a26f869d------2)
+- [Experience of my first internship.](https://medium.com/@porwalankit04/experience-of-my-first-internship-1115635a9ca0?source=rss-1e44a26f869d------2)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
