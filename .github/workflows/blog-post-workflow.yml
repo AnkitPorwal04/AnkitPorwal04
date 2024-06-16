@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/@porwalankit04/what-are-large-language-models-llms-55c303ec3b05"
+          feed_list: "https://medium.com/@porwalankit04"
