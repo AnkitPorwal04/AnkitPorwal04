@@ -112,6 +112,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Dockerise deepfake detection Django application using Nvidia Cuda](https://medium.com/@porwalankit04/dockerise-deepfake-detection-django-application-using-nvidia-cuda-674a7ee4c86f?source=rss-1e44a26f869d------2)
 - [How Generative AI Is Changing Creative Work](https://medium.com/@porwalankit04/how-generative-ai-is-changing-creative-work-18286c2a87f7?source=rss-1e44a26f869d------2)
 - [What are Large Language Models&lpar;LLMs&rpar;?](https://medium.com/@porwalankit04/what-are-large-language-models-llms-55c303ec3b05?source=rss-1e44a26f869d------2)
 - [My online internship with Oasis Infobyte.](https://medium.com/@porwalankit04/my-online-internship-with-oasis-infobyte-28e1aabb1a91?source=rss-1e44a26f869d------2)
