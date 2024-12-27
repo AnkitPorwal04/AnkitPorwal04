@@ -121,13 +121,6 @@
 
 <br/>  
 
-## Have fun!!
-  
-![Snake animation](https://github.com/AnkitPorwal04/AnkitPorwal04/blob/output/github-contribution-grid-snake.svg)
-  
-
-<br/>  
-
 
 
 ### Support Me  
