@@ -121,12 +121,9 @@
 
 <br/>  
 
-## Spotify Connect
+## Have fun!!
   
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=xnb8tvlueobf339iyfx9r7elh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" /></div>  
-
-
+https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg
   
 
 <br/>  
