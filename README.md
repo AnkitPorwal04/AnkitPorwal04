@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ankit Porwal, a Software Engineer👨‍💻 from India , will be graduating in 2025🚀</div>  
   
 
-- 🔭 I’m currently working on [REAL_REVEAL](https://github.com/AnkitPorwal04/real_reveal)  
+- 🔭 I’m currently working on [Generative AI Projects](https://github.com/AnkitPorwal04/RAG_Project)  
   
 
 - 🌱 I’m currently learning Deep Learning, LLMs and Generative AI  
