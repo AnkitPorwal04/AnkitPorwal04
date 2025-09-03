@@ -22,52 +22,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnkitPorwal04&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+**<h3 align="left">Skills</h3>**
 
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="28" alt="Java" style="margin-right: 4px"> <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?logo=c%2B%2B&logoColor=white" height="28" alt="C++" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" height="28" alt="Oracle" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" height="28" alt="Flutter" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="28" alt="TensorFlow" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="28" alt="PyTorch" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="28" alt="Scikit-learn" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" height="28" alt="Keras" style="margin-right: 4px"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="28" alt="OpenCV" style="margin-right: 4px"> <img src="https://img.shields.io/badge/NLTK-4B8BBE?logo=nltk&logoColor=white" height="28" alt="NLTK" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Hugging_Face-FF6F91?logo=huggingface&logoColor=white" height="28" alt="Hugging Face" style="margin-right: 4px"> <img src="https://img.shields.io/badge/FastAI-0077C5?logo=fastai&logoColor=white" height="28" alt="FastAI" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="28" alt="Pandas" style="margin-right: 4px"> <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="28" alt="OpenAI" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" height="28" alt="Firebase" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="Git" style="margin-right: 4px"></div>
 
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-</div>
-
-</td></tr></table>  
 
 <br/>  
 
