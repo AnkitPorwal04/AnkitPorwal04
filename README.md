@@ -20,7 +20,7 @@
 
 <br/>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnkitPorwal04&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnkitPorwal04&theme=onedark)](https://github.com/AnkitPorwal04/github-profile-trophy)
 
 **<h3 align="left">Skills</h3>**
 
