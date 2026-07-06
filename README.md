@@ -92,8 +92,8 @@ Real-time driver-monitoring system using computer vision to detect drowsiness, b
 ## GitHub Statistics
 
 <div align="center">
-  <img height="200" alt="Ankit Porwal's GitHub stats" src="https://raw.githubusercontent.com/AnkitPorwal04/github-stats-dashboard/main/docs/assets/stats.svg" />
-  <img height="200" alt="Most used languages" src="https://raw.githubusercontent.com/AnkitPorwal04/github-stats-dashboard/main/docs/assets/top-langs.svg" />
+  <img height="200" alt="Ankit Porwal's GitHub stats" src="https://ankitporwal04.github.io/github-stats-dashboard/assets/stats.svg" />
+  <img height="200" alt="Most used languages" src="https://ankitporwal04.github.io/github-stats-dashboard/assets/top-langs.svg" />
 </div>
 
 <p align="center">
