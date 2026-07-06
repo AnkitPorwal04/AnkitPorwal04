@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/AnkitPorwal04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/ankitporwal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/ankitporwal04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ankitporwal4403@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://medium.com/@porwalankit04"><img src="https://img.shields.io/badge/Medium-1a1a1a?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://ankitporwal04.github.io/resume/"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-6c63ff?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé"/></a>
@@ -114,7 +114,7 @@ I occasionally write about applied AI and engineering on [**Medium →**](https:
 
 <p align="center">
   <a href="https://github.com/AnkitPorwal04"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/ankitporwal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/ankitporwal04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ankitporwal4403@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://medium.com/@porwalankit04"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
