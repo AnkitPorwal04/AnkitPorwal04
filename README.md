@@ -92,9 +92,13 @@ Real-time driver-monitoring system using computer vision to detect drowsiness, b
 ## GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnkitPorwal04&show_icons=true&count_private=true&hide_border=true&title_color=6c63ff&icon_color=6c63ff&text_color=808080&bg_color=00000000" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitPorwal04&layout=compact&hide_border=true&title_color=6c63ff&text_color=808080&bg_color=00000000" alt="top langs" />
+  <img height="200" alt="Ankit Porwal's GitHub stats" src="https://raw.githubusercontent.com/AnkitPorwal04/github-stats-dashboard/main/docs/assets/stats.svg" />
+  <img height="200" alt="Most used languages" src="https://raw.githubusercontent.com/AnkitPorwal04/github-stats-dashboard/main/docs/assets/top-langs.svg" />
 </div>
+
+<p align="center">
+  <a href="https://ankitporwal04.github.io/github-stats-dashboard/"><b>Full interactive dashboard →</b></a>
+</p>
 
 ---
 
