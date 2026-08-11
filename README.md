@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AnkitPorwal04/AnkitPorwal04/blob/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?raw=true" width="600" alt="banner" />
+  <img src="https://github.com/AnkitPorwal04/AnkitPorwal04/blob/main/github_tech_room_correct_cursor.gif" width="600" alt="banner" />
 </div>
 
 <h1 align="center">Ankit Porwal</h1>
