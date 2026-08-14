@@ -107,6 +107,7 @@ Real-time driver-monitoring system using computer vision to detect drowsiness, b
 
 I occasionally write about applied AI and engineering on [**Medium →**](https://medium.com/@porwalankit04)
 
+- [Your Coding Agent Isn’t Solving the Bug. It’s Downloading the Answer.](https://medium.com/@porwalankit04/your-coding-agent-isnt-solving-the-bug-it-s-downloading-the-answer-b2f286f0e8fb)
 - [How Generative AI Is Changing Creative Work](https://medium.com/@porwalankit04/how-generative-ai-is-changing-creative-work-18286c2a87f7)
 - [What Are Large Language Models (LLMs)?](https://medium.com/@porwalankit04/what-are-large-language-models-llms-55c303ec3b05)
 
