@@ -114,7 +114,7 @@ Real-time driver-monitoring system using computer vision to detect drowsiness, b
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitPorwal04&bg_color=1a1b27&color=c9d1d9&line=6C63FF&point=9f7aea&area=true&area_color=6C63FF&hide_border=true&radius=10&custom_title=Contribution%20Activity" alt="activity graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitPorwal04&bg_color=1a1b27&color=c9d1d9&line=6C63FF&point=9f7aea&hide_border=true&radius=10&custom_title=Contribution%20Activity" alt="activity graph" width="80%"/>
 </div>
 
 <p align="center">
@@ -142,6 +142,13 @@ I occasionally write about applied AI and engineering on [**Medium →**](https:
 - [Your Coding Agent Isn’t Solving the Bug. It’s Downloading the Answer.](https://medium.com/@porwalankit04/your-coding-agent-isnt-solving-the-bug-it-s-downloading-the-answer-b2f286f0e8fb)
 - [How Generative AI Is Changing Creative Work](https://medium.com/@porwalankit04/how-generative-ai-is-changing-creative-work-18286c2a87f7)
 - [What Are Large Language Models (LLMs)?](https://medium.com/@porwalankit04/what-are-large-language-models-llms-55c303ec3b05)
+
+---
+
+<!-- 💬 Random dev quote (changes every visit) -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote"/>
+</div>
 
 ---
 
