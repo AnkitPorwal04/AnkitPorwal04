@@ -1,14 +1,10 @@
-<!-- ⚡ Animated wave banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ankit%20Porwal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%40%20Ethara.ai%20%C2%B7%20Building%20infrastructure%20for%20frontier%20AI&descSize=16&descAlignY=55" alt="header banner"/>
-
-<!-- ⌨️ Animated typing intro -->
+<!-- ⚡ Animated wave banner + typing intro (single block = tight spacing) -->
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6C63FF,100:9f7aea&height=180&section=header&text=Ankit%20Porwal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%40%20Ethara.ai%20%C2%B7%20Building%20infrastructure%20for%20frontier%20AI&descSize=16&descAlignY=55&stroke=00000000" alt="header banner"/>
   <a href="https://github.com/AnkitPorwal04">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=LLM+Evaluation+%E2%9A%96%EF%B8%8F;Agentic+Coding+Systems+%F0%9F%A4%96;Benchmark+Engineering+%F0%9F%93%90;AI+Infrastructure+%F0%9F%8F%97%EF%B8%8F;Open-source+AI+Tooling+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=9F7AEA&center=true&vCenter=true&width=600&height=40&lines=LLM+Evaluation+%E2%9A%96%EF%B8%8F;Agentic+Coding+Systems+%F0%9F%A4%96;Benchmark+Engineering+%F0%9F%93%90;AI+Infrastructure+%F0%9F%8F%97%EF%B8%8F;Open-source+AI+Tooling+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
   </a>
 </div>
-
-<br/>
 
 <!-- 👀 Visitor counter + status badges -->
 <p align="center">
@@ -118,7 +114,7 @@ Real-time driver-monitoring system using computer vision to detect drowsiness, b
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitPorwal04&theme=tokyo-night&hide_border=true&radius=10&area=true" alt="activity graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitPorwal04&bg_color=1a1b27&color=c9d1d9&line=6C63FF&point=9f7aea&area=true&area_color=6C63FF&hide_border=true&radius=10&custom_title=Contribution%20Activity" alt="activity graph" width="95%"/>
 </div>
 
 <p align="center">
@@ -130,7 +126,10 @@ Real-time driver-monitoring system using computer vision to detect drowsiness, b
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/AnkitPorwal04/AnkitPorwal04/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnkitPorwal04/AnkitPorwal04/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/AnkitPorwal04/AnkitPorwal04/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
@@ -154,4 +153,4 @@ I occasionally write about applied AI and engineering on [**Medium →**](https:
   <a href="https://medium.com/@porwalankit04"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6C63FF,100:9f7aea&height=120&section=footer" alt="footer banner"/>

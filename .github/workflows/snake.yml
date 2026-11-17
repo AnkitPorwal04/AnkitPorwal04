@@ -24,8 +24,8 @@ jobs:
           # empty contribution calendar from the GraphQL API.
           github_token: ${{ secrets.SNAKE_TOKEN }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#6C63FF&color_dots=#ebedf0,#d8d1ff,#b3a7fb,#8c7dfa,#6C63FF
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#9F7AEA&color_dots=#161b22,#2d2a5e,#473d8f,#6C63FF,#9f7aea
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
